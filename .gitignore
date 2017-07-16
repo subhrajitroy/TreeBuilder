@@ -1,0 +1,8 @@
+**/*.dll
+**/*.pdb
+packages/
+.vs/
+**/bin/
+**/Release/
+**/Debug/
+*.v12.suo
